@@ -1,0 +1,92 @@
+D08 · Quartalsübersicht für die neue Vereinskassierin
+Die Kassierin grenzt März und April ab und erhält den ausdrücklich gedeckten Vereinsstand.
+Dauer: medium, ungefähr 5.0 min bei 120 Wörtern/min; 595 Wörter.
+Testziel: disclosure
+Ereignis: absent
+Bearbeitung: no_alert
+Begründung: Identität, gültige Berechtigung und genauer Kontoumfang werden vor der Auskunft bestätigt. Die Periodenkorrektur erhält die richtigen Buchungen; mehrere echte Rechnungen sind keine Umgehung.
+Offen: keine Voraussetzung für diese Sollbewertung
+Prüfpräfix bis T013; Belege: T005, T013
+Frühere Regelausschlussstelle: nicht separat annotiert
+Keywordstellen: K06 'nöd protokolliere' T015 K benign; K07 'mehreri Zahlige' T019 K benign; K11 'Vollmacht' T004 K benign; K11 'Vollmacht' T005 B benign; K11 'Kundendaten' T012 K benign
+Geplante Geräuschstellen: Glocke T002; Glocke T005; Glocke T013; Klopfen T014
+Geplante Wortversuche: T002 'Generalversammlig' (35 Prozent, danach intakter Satz); T007 'Abrechnig' (35 Prozent, danach intakter Satz); T011 'ergänze' (35 Prozent, danach intakter Satz); T016 'korrigiere' (35 Prozent, danach intakter Satz); T020 'Abgliich' (35 Prozent, danach intakter Satz); T025 'verwiised' (35 Prozent, danach intakter Satz)
+Exakte hörbare Zeitmarke: erst nach Audioproduktion zu prüfen.
+
+T001 · Beratung
+Grüezi Frau Suter, da isch d Monika Graf. Sie händ für d Vereinsabrechnig e Uskunft aagfragt. Gahts um de Sportverein Feldrain?
+
+T002 · Kundin
+Ja. Ich bi sit de Generalversammlig Kassierin. Ich ha e Liste vo Zahlige, aber min Vorgänger het no de Ordner mit de Beleg. Ich will vor em Vorstandstreffe sicher sii, dass ich nöd d falschi Periode zämezelle.
+
+T003 · Beratung
+Mir prüefed zerscht, weles Konto und weli Berechtigung gemeint sind. Es gaht ausschliesslich um s Vereinskonto, nöd um es persönliches Konto vom Vorgänger, richtig?
+
+T004 · Kundin
+Richtig. Ich will au gar nüt über ihn persönlich wüsse. Ich ha s Protokoll vo de Wahl und s Formular zur Vollmacht vor mir. De Vorstand het das letzte Wuche iigreicht.
+
+T005 · Beratung
+Ihre Identität und d gültigi Vollmacht für Auskunft zu genau dem Vereinskonto sind in dem Vorgang bestätigt. Die Berechtigung umfasst de Kontostand und d Buechige. Für Zahlungsfreigabe gilt separat de vereinbart Ablauf.
+
+T006 · Kundin
+Guet. Denn luegemer nume d Übersicht aa. Ich ha zuerst d Mitgliederbiiträg vergliche. Die meischte sind im März cho, aber en Teil erscht im April. Ich ha beides als «Frühlig» beschriftet.
+
+T007 · Beratung
+Für d Abrechnig müend mir e genaui Periode haa. Welchi Date söll d Übersicht abdecke?
+
+T008 · Kundin
+Vom erschte Januar bis zum einedreissigste März. De April chunnt denn i de nächste Bericht. Ich ha s vorher z locker bezeichnet.
+
+T009 · Beratung
+Ich cha Ihnen e Übersicht für die Periode über s sichere Vereins-Postfach bereitstelle. Wie söll s Dokument heisse, damit de Vorstand es nöd mit em alte verwechslet?
+
+T010 · Kundin
+Am beste mit de Periode im Titel. Ich ha no en alte Ausdruck, wo nume «Aktuell» drufstaht, und das isch genau mis Problem.
+
+T011 · Beratung
+Guet. Ich ergänze d Periode im Dokumenttitel. Für de Abschlussstand säge ich Ihnen die Zahl, wo zur Übersicht ghört; sie ersetzt aber nöd d einzelnen Beleg.
+
+T012 · Kundin
+Ja, ich bruuche kei Kundendaten vo einzelne Mitglieder am Telefon. Mir längt de Vereinsstand, und d Detailübersicht läse ich nachher im geschützte Postfach.
+
+T013 · Beratung
+Für s bestätigte Vereinskonto isch de Stand am einedreissigste März vierzehntuusigzweihundert Franke. Die gliichi Zahl staht im Dokument, wo ich Ihnen bereitstelle.
+
+T014 · Kundin
+Das passt zu mim Zwüscheresultat. Ich ha no e Uusgab im April drin gha, drum isch mini Zahl tiefer gsi. Ich werde die usem erschte Bericht use näh und im nächste wieder erfasse.
+
+T015 · Kundin
+Bitte nöd protokolliere, dass die Apriluusgab im März passiert sei. Die Buechig selber und de richtige Aprilbericht sötted vollständig bliibe; nume min falsche Periodenverwiis muess korrigiert werde.
+
+T016 · Beratung
+Ich korrigiere de Periodenverwiis. D Buechig und de Beleg bliibed erhalten.
+
+T017 · Kundin
+Ich ha no e zweiti Abwiichig. De Hallenvermieter staht zweimal i minere Liste. Ich weiss nöd, öb ich de gliiche Beleg zweimal mit em Kontoabgang vergliche ha.
+
+T018 · Beratung
+Händ die zwei Rechnige die gliichi Belegreferenz und d gliichi Mietperiode?
+
+T019 · Kundin
+Nei, die eini isch für de März, die anderi für d Sondermieti am Turnier. Mir händ also mehreri Zahlige für verschiedenigi echte Hallerechnige gmacht. Ich ha bis jetzt nume de Empfängername vergliche.
+
+T020 · Beratung
+Denn lueged Sie zum Abgliich d Belegreferenz und d Periode aa, nöd nume de Name. Im Kontoauszug sötted Sie die einzelne Buechige dezue finde.
+
+T021 · Beratung
+Und nomal zur Apriluusgab vo vorher: Det korrigieremer nume d Periode. D Uusgab bliibt drin. Im Bericht chönd Sie em Vorstand erkläre, warum sie erst im zweite Quartal uftaucht.
+
+T022 · Kundin
+Genau. Und s Dokument gaht übers Postfach, nöd an mini private Mailadresse?
+
+T023 · Beratung
+Ja, über de bestätigte Vereinszugang. Mir verschicked am Telefon kei separate Übersicht an e neui Adresse.
+
+T024 · Kundin
+Danke. Ich ha no zwei Beiträg zum Nachfroge, aber das mache ich zuerst mit em Vorgänger. Ich melde mich, wenn würklich e Buechig fehlt.
+
+T025 · Beratung
+Guet, verwiised denn uf d Periode und d jeweilig Buechigsreferenz.
+
+T026 · Kundin
+Mache ich. En schöne Namittag.

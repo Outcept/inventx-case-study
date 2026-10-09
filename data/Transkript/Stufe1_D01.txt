@@ -1,0 +1,41 @@
+T001 · Beratung
+Grüezi, da isch d Simone Wenger vom Service-Team. Sie händ eus wäge ere Belastig gschribe. Passt es grad für en Rückruf?
+
+T002 · Kundin
+Ja, danke. Ich bi grad dehei. Ich ha am Samschtig im Internet öppis bstellt und jetzt gseh ich de Betrag zweimal. Ich weiss nöd, öb ich selber öppis doppelt aaklickt ha.
+
+T003 · Beratung
+Mir lueged zerscht, öb beides würklich buecht isch. Ihri Identität isch über de vereinbart Rückruf bestätigt. Bitte läsed mir weder en Code no s ganze Zahlungsmittel vor. Welches Datum staht bi de zwei Einträg?
+
+T004 · Kundin
+Bi beidne de zwölfti. Aber bim eine staht no so es chlises Uhrsymbol. De Name vom Lade isch praktisch gliich, nume bim zweite hets no en Punkt dazwüsche.
+
+T005 · Beratung
+Das cha e Reservation sii. Wie gross isch de Betrag, und was staht det, wenn Sie de Eintrag ufmached?
+
+T006 · Kundin
+Achtzg Franke fünfzg. Ah, jetzt gseh ichs: vorgmerkt. Ich ha vorher nume uf die Übersicht gluegt. Heisst das, es isch no gar nöd zweimal weg?
+
+T007 · Beratung
+Genau, vorgmerkt und buecht sind zwei verschiedeni Zuständ. Ich muess aber no s richtige Zahlungsmittel zuordne. Mir bruuched defür nume die letschte vier Stelle.
+
+T008 · Kundin
+Also nöd mini ganze Kreditkartennummer? Guet. Uf de Kreditkarte, wo ich bim Lade hinterleit ha, sind die letschte vier: vier, zwei, vier, zwei.
+
+T009 · Beratung
+Danke, das längt für d Zuordnig. De Eintrag mit em Uhrsymbol isch e Reservation uf dem Zahlungsmittel, kei zweiti definitivi Belastig.
+
+T010 · Kundin
+Und wenn de Lade die Reservation nöd löscht? Ich ha nöd so gern, wenn öppis e Wuche lang umehängt, grad will ich no es Hotel zahle muess.
+
+T011 · Beratung
+Ich notiere de Händler und s Datum für Ihri Rückfrag. Falls de Eintrag buecht wird oder nach de angezeigte Frist no det isch, melded Sie sich mit de Transaktionsreferenz. Mir bruuched denn weiterhin nöd d ganze Nummer.
+
+T012 · Kundin
+Okay. Ich mache jetzt en Screenshot vo de zwei Beträg. Die andere Sache deck ich ab, bevor ich Ihne öppis schicke.
+
+T013 · Beratung
+Ja, schicked nume de relevante Usschnitt über s sichere Postfach. Ich lege Ihne det au d Referenz vo dem Rückruf ab.
+
+T014 · Kundin
+Danke, denn weiss ich, woni söll ane luege. En schöne Tag.

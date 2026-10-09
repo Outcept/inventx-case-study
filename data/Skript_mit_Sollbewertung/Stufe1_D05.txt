@@ -1,0 +1,56 @@
+D05 · Zwei offene Anmeldefenster
+Der Zeitdruck eines Countdowns führt dazu, dass die Kundin trotz Warnung ihren aktuellen Wert vorliest.
+Dauer: short, ungefähr 2.5 min bei 120 Wörtern/min; 295 Wörter.
+Testziel: access
+Ereignis: present
+Bearbeitung: alarm
+Begründung: Die Kundin liest einen aktuell gültigen eigenen Anmeldewert tatsächlich vor. Die früheren Warnungen und der spätere Abbruch beseitigen die Preisgabe nicht.
+Offen: keine Voraussetzung für diese Sollbewertung
+Prüfpräfix bis T008; Belege: T006, T008
+Frühere Regelausschlussstelle: nicht separat annotiert
+Keywordstellen: K10 'PIN' T003 B benign; K10 'Passwort' T003 B benign; K10 'Bestätigungscode' T006 K relevant; K10 'TAN' T008 K relevant
+Geplante Geräuschstellen: Glocke T002; Glocke T006; Glocke T008; Klopfen T008
+Geplante Wortversuche: T002 'Schritt' (35 Prozent, danach intakter Satz); T006 'Bestätigungscode' (35 Prozent, danach intakter Satz); T009 'vorzläse' (35 Prozent, danach intakter Satz); T013 'verständlich' (35 Prozent, danach intakter Satz)
+Exakte hörbare Zeitmarke: erst nach Audioproduktion zu prüfen.
+
+T001 · Beratung
+Da isch d Isabelle Brunner vom Online-Service. Sie händ eus en Fehler bim Aamelde gmeldet. Was passiert uf Ihrem Bildschirm?
+
+T002 · Kundin
+Ich chume bis zum zweite Schritt. Denn zeigt s Gerät öppis aa, aber ich weiss nöd, öb ich uf em Telefon bestätige söll oder im Browser.
+
+T003 · Beratung
+Sie müend mir kei PIN und kei Passwort säge. Beschriibed mir bitte nume, weli Aawisig Sie gsehnd, ohni d geheime Angab vorzläse.
+
+T004 · Kundin
+Es het e blaue Fläche und drunder en chline Text. Ich bi uf em Laptop und ha s Telefon näbedra. Im Telefon staht no d alti Aafrag vo vor füüf Minute.
+
+T005 · Beratung
+Denn luegemer zerscht, dass nöd zwei Aafrage durenand grated. Isch im Browser no de laufendi Aameldeschritt offen?
+
+T006 · Kundin
+Ja, und da staht, de neu Bestätigungscode isch für genau die jetzigi Aameldig gültig. De Countdown lauft no, es sind no sibeundzwänzg Sekunde.
+
+T007 · Beratung
+Bitte gänd Sie de Wert selber im vorgsehne Feld ii. Ich bruuche nume d Rückmeldig, öb s klappt.
+
+T008 · Kundin
+Wart, ich säg Ihne die TAN grad: sibe, drü, eins, nüün, vier, zwei. Es staht immer no gültig. Chönd Sie mir säge, öb das die richtige Reihenfolg isch?
+
+T009 · Beratung
+Bitte nümme vorzläse. Ich cha de Wert nöd für Sie prüefe. Mir breched die laufendi Aafrag ab und gönd über de vorgsehne Support-Wäg wiiter.
+
+T010 · Kundin
+Oh. Ich ha gmeint, Sie müend das ghöre, zum mir z helfe. Ich ha jetzt uf Abbreche druckt, und s Feld isch verschwunde.
+
+T011 · Beratung
+Danke. Für de nächste Schritt teilemer kei neue Wert am Telefon. Ich schicke Ihnen im sichere Kanal d Aawisig für de Neustart.
+
+T012 · Kundin
+Ich warte uf d Nachricht und probiers denn. Ich bi e chli nervös worde, will s immer abezellt.
+
+T013 · Beratung
+Das isch verständlich. Nähmed Sie sich Ziit und started erst, wenn Sie alles vor sich händ.
+
+T014 · Kundin
+Guet. Danke für d Hilf, uf Wiederluege.

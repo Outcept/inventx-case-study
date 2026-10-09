@@ -1,0 +1,80 @@
+C07 · Einmalauftrag neben dem Sparauftrag
+Die Kundin klärt einen Formularentwurf. Die Absatzmeldung stammt entweder persönlich aus einem gesperrten Projektbericht oder von einer frei zugänglichen Website.
+Dauer: medium, ungefähr 4.4 min bei 120 Wörtern/min; 528 Wörter.
+Testziel: trade
+Ereignis: present
+Bearbeitung: alarm
+Begründung: Der eigene Kaufwunsch wird mit selbst erhaltenen Absatzinformationen vor der geplanten Medienfreigabe begründet.
+Offen: keine Voraussetzung für diese Sollbewertung
+Prüfpräfix bis T018; Belege: T004, T018
+Frühere Regelausschlussstelle: nicht separat annotiert
+Keywordstellen: keine registrierte Vollphrase; Kontexttest
+Geplante Geräuschstellen: Glocke T002; Glocke T004; Glocke T018; Klopfen T012
+Geplante Wortversuche: T002 'zerscht' (35 Prozent, danach intakter Satz); T006 'entscheide' (35 Prozent, danach intakter Satz); T010 'Formular' (35 Prozent, danach intakter Satz); T013 'Formularentwurf' (35 Prozent, danach intakter Satz); T017 'konkrete' (35 Prozent, danach intakter Satz); T021 'bestehendi' (35 Prozent, danach intakter Satz)
+Exakte hörbare Zeitmarke: erst nach Audioproduktion zu prüfen.
+
+T001 · Beratung
+Guete Tag Frau Bühler, da isch d Nadja Furrer. Sie wänd d Erfassig vo Ihrem Sparauftrag ändere. Gahts um de Monat oder um de Betrag?
+
+T002 · Kundin
+Ich wett zerscht verstah, wie en einzelne Kauf nebem Sparauftrag erfasst würd. Ob ich selber öppis chaufe, han ich no nöd entschiede. Es gaht um es Formular zur Albis Optik, nöd um en Auftrag.
+
+T003 · Beratung
+Guet, denn behandled mir das als separate Frag. Woher chunnt d Notiz, wo Sie zum Titel gmacht händ?
+
+T004 · Kundin
+Mini Cousine isch im Projektteam vo de Albis Optik. Si het mir gester de neue Absatzbericht persönlich zeigt. De gaht erst morn an d Medie; bis denn dörf s Team ihn nöd wiitergee. Es isch deutlich meh verkauft worde als erwartet, und ich ha nume durch sie devo erfahre.
+
+T005 · Beratung
+Ich ha de Ursprung vo Ihrer Notiz festghalte. Wie gross wär de zusätzliche Betrag, wo Sie bespreche wänd?
+
+T006 · Kundin
+Falls ich mi defür entscheide, wär mini Obergrenze füünftuusig Franke us mim Sparkonto. Mini Mieti und d Versicherig sind separat reserviert. Für s Formular wett ich nume e hypothetischi Zahl bruuche.
+
+T007 · Beratung
+Mir kläred zerscht Ihre Wunsch. En Betrag allei seit no nöd, öb de Kauf zu Ihrer Planig passt. Was isch für Sie de Unterschied zum Sparauftrag?
+
+T008 · Kundin
+Bim Sparauftrag mach ich jede Monet s Gliiche. Da wärs einmalig. Ich ha Sorge, dass ich im Formular us Verseh uf «wiederhole» drucke.
+
+T009 · Beratung
+De einmaligi Auftrag und de Dauerauftrag händ verschiedeni Erfassige. Ich nime im Rückruf kei unklare Erfassig als Bestätigung. Mir chönd Ihren Wunsch aber genau benenne.
+
+T010 · Kundin
+Guet. Ich ha s Formular no nöd abgschickt. Ich ha nume uf Papier d Anzahl usgrechnet, aber de Priis schwankt und drum isch die Zahl vielleicht scho veraltet.
+
+T011 · Beratung
+Beziehnd Sie sich bitte nöd uf en alte Priis als Zusag. Mir müend Betrag, Titel und Auftragsart getrennt kläre, bevor en vorgsehne Ablauf möglich isch.
+
+T012 · Kundin
+Ja. Ich muess au nöd en runde Anzahl haa. Ich ha s nume gmacht, zum z verstah, wie viel ungefähr drin läg.
+
+T013 · Beratung
+Händ Sie de Formularentwurf lokal gespeichert oder scho übermittelt? Für de weitere Ablauf muess klar sii, öb es nume Ihre eigene Vorbereitung isch.
+
+T014 · Kundin
+Nume lokal. Ich ha ihn no nöd abgschickt. Im Postfach git es darum au kei Auftragsbestätigung für die Erfassig.
+
+T015 · Beratung
+Und was macht de Zeitpunkt für Sie wichtig? Sie händ i Ihrer Nachricht «möglichst hüt» gschribe.
+
+T016 · Kundin
+Ich wett s Formular verstah, solang ich d Unterlage vor mir ha. Bis jetzt han ich nume de Ablauf kläre welle. Ich bi no am Überlege, ob ich überhaupt en Auftrag mache.
+
+T017 · Beratung
+Denn säged Sie mir bitte Ihren konkrete Wunsch. Mir chönd ihn erst nachher im Zusammenhang mit de besprochene Quelle beurteile.
+
+T018 · Kundin
+Ja, ich ha mi jetzt entschiede. Wäge dere Nachricht wett ich hüt für füünftuusig Franke Aktie vo de Albis Optik chaufe. Chönd Sie de einmaligi Auftrag für mich entgegeneh?
+
+T019 · Beratung
+Ich bestätige jetzt kei Uusfüehrig. Ich nime de Kaufwunsch mit de Quelle, wo Sie vorher gnennt händ, zum Vorgang.
+
+T020 · Kundin
+Guet. Denn ändere ich selber im Formular no nüt. Ich ha lieber e klare Rückmeldig als zwei verschiedeni Erfassige.
+
+T021 · Beratung
+De bestehendi Sparauftrag bliibt i dem Rückruf unverändert. D Rückrufreferenz chunnt ins Postfach.
+
+T022 · Kundin
+Danke. Ich ha am Namittag no Ziit, falls Sie mi no einisch erreiche müend.

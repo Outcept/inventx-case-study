@@ -1,14 +1,14 @@
 # Data package for builders
 
-The 70 percent of the material that teams work with. The other 30 percent is the hidden test set.
+All synthetic calls of the case.
 
 All calls are fictional. Names, companies and numbers are invented. There is no real customer or bank data.
 
 | Folder | Content |
 |---|---|
-| `Audio/` | 42 recordings, WAV, mono, 16 kHz, 16-bit, Swiss German, synthetic voices |
-| `Transkript/` | 21 scripts: the dialogue, turn by turn |
-| `Skript_mit_Sollbewertung/` | the same 21 dialogues with the expected assessment, its reasoning and the supporting passages |
+| `Audio/` | 60 recordings, WAV, mono, 16 kHz, 16-bit, Swiss German, synthetic voices |
+| `Transkript/` | 30 scripts: the dialogue, turn by turn |
+| `Skript_mit_Sollbewertung/` | the same 30 dialogues with the expected assessment, its reasoning and the supporting passages |
 | `Stichwortliste.json` | preliminary keyword families |
 
 ## File names
@@ -28,4 +28,4 @@ All calls are fictional. Names, companies and numbers are invented. There is no 
 - Keyword list and expected assessments are test conventions for the sprint, not official rules of Inventx.
 - Do not feed file names, scripts or expected assessments into your audio pipeline as hidden hints.
 
-The audio is about 350 MB, so the first clone takes a moment.
+The audio is about 500 MB, so the first clone takes a moment.

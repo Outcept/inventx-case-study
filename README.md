@@ -64,7 +64,7 @@ interesting solutions sit in between.
 
 ## The data
 
-In [`data/`](data/README.md): 42 calls (WAV, mono, 16 kHz, Swiss German) from 21 dialogues, each in
+In [`data/`](data/README.md): 60 calls (WAV, mono, 16 kHz, Swiss German) from 30 dialogues, each in
 a clean and a noisy version. Every dialogue comes with its script as a transcript and with the
 expected assessment: alert, no alert or review, with the reasoning and the passages that carry the
 decision. A preliminary keyword list is included as JSON.
@@ -73,8 +73,7 @@ decision. A preliminary keyword list is included as JSON.
 - **Level 2** (`Stufe2_`): context pairs, similar calls where only the context decides.
 - **Level 3** (`Stufe3_`): open cases where the expected assessment is "review".
 
-This is 70 percent of the material. Inventx and Outcept hold back 30 percent as a hidden test set.
-On Sunday the solutions run on that part, so precision and recall are fairly comparable.
+This is the full set of synthetic calls, about 4 hours 40 minutes.
 
 All calls are fictional. There is no real customer or bank data. The transcripts are the scripts the
 recordings were made from, not verified transcriptions. Keyword list and expected assessments are test
@@ -103,7 +102,7 @@ event do not fit this rule: do not build transcription or the fraud checks on th
 | Feasibility | 10 | Realistic architecture that could run in a bank's secured environment, on self-hostable models. |
 | Design & usability | 25 | A compliance officer understands each alert and its reason, and can adjust threshold and keyword list without code. |
 | Impact & relevance | 20 | Does it solve the actual problem effectively? |
-| Detection quality & traceability | 25 | Few false alarms and few missed cases on the hidden test set. Every hit comes with its passage and criterion. The solution shows when it is unsure and escalates instead of guessing. |
+| Detection quality & traceability | 25 | Few false alarms and few missed cases on the test calls. Every hit comes with its passage and criterion. The solution shows when it is unsure and escalates instead of guessing. |
 
 ## Sunday
 

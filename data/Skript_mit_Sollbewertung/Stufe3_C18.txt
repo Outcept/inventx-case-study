@@ -1,0 +1,74 @@
+C18 · Haushaltsrechnung während der Abwesenheit
+Eine Schwester möchte während einer Reise Rechnungen ordnen; die Beratung trennt Prozesshilfe und verweigerte Kontoinformation.
+Dauer: medium, ungefähr 4.7 min bei 120 Wörtern/min; 567 Wörter.
+Testziel: disclosure
+Ereignis: absent
+Bearbeitung: review
+Begründung: Das Auskunftsrecht bleibt ungeklärt. Konkrete fremde Kontoinformation wurde ausdrücklich nicht gegeben. Ereignis abwesend, Berechtigungsprüfung dennoch offen.
+Offen: Bestätigter Nachweis und Umfang des Auskunftsrechts für das konkrete Konto.
+Prüfpräfix bis T017; Belege: T004, T016, T017
+Frühere Regelausschlussstelle: nicht separat annotiert
+Keywordstellen: keine registrierte Vollphrase; Kontexttest
+Geplante Geräuschstellen: Glocke T002; Glocke T004; Glocke T016; Klopfen T011
+Geplante Wortversuche: T002 'Uusland' (35 Prozent, danach intakter Satz); T005 'aktuell' (35 Prozent, danach intakter Satz); T009 'Schwester' (35 Prozent, danach intakter Satz); T012 'vorbereitet' (35 Prozent, danach intakter Satz); T016 'wenigstens' (35 Prozent, danach intakter Satz); T019 'Rückrufreferenz' (35 Prozent, danach intakter Satz)
+Exakte hörbare Zeitmarke: erst nach Audioproduktion zu prüfen.
+
+T001 · Beratung
+Guete Tag Frau Ott, da isch d Daniela Vogt. Sie händ wäge em Haushaltskonto vo Ihrer Schwester um en Rückruf gwünscht.
+
+T002 · Kundin
+Ja. Si isch für zwei Mönet im Uusland. Ich ha ihr aabote, uf d offene Rechnige z luege. Ich ha aber no nie mit Ihrer Bank über ihres Konto telefoniert.
+
+T003 · Beratung
+Denn müemer vor ere konkrete Uskunft luege, wer Sie sind und weli Uskunft Sie dörfed becho. Was het Ihre Schwester für de Kontakt hinterleit?
+
+T004 · Kundin
+Si het gseit, es sei alles erledigt. Ich ha aber nume e Nachricht vo ihr uf mim Telefon und weiss nöd, was bi Ihnen tatsächlich erfasst isch. Ich cha kei bestätigte Berechtigung für genau ihres Konto vorweise.
+
+T005 · Beratung
+Ich gseh aktuell kei abschliessend geprüefte Freigab für die gewünschti Uskunft. Das heisst, ich cha Ihnen jetzt nöd bestätigen, dass Sie de Kontostand dörfed erfahre. Ich cha e allgemeini Prozessfrag ufneh.
+
+T006 · Kundin
+Guet. Ich will Sie nöd überrede, mir einfach öppis z säge. Mir gahts drum, dass d Wohnigsrechnung nöd liegenbliibt, während mir no uf s Formular warted.
+
+T007 · Beratung
+Mir chönd de Kontaktwunsch wiitergeh. Für en konkrete Auftrag oder e Uskunft bruuchemer aber zerscht de Nachwiis. Weli Frag händ Sie no uf Ihrer eigene Liste offe?
+
+T008 · Kundin
+Zwei Date. De letschti Beleg isch vom August, aber d neui Rechnung vom September. Ich weiss nöd, ob mini Schwester de Septemberbetrag scho zum Zahle erfasst het.
+
+T009 · Beratung
+Die eigene Beleg cha Ihre Schwester selber mit de Rechnung vergliiche. Mir chönd für Ihre Vorbereitung festhalte, dass Sie zwei verschiedeni Mönet vor sich händ. Staht de September als Rechnigsperiode uf de neue Unterlag oder nume als Datum vom Versand?
+
+T010 · Kundin
+Als Rechnigsperiode. Ich cha sie hüt Abig erreiche und ihr die richtige Rechnung benenne. Ich wett nöd im Familienchat es Bild vo ihrem Konto verteile. Sie cha selber im Zugang luege und mir denn säge, ob si no öppis mache muess.
+
+T011 · Beratung
+Schicked eus bitte nume de Nachwiis, wo für d Berechtigung nötig isch. De müemer über de vorgsehne Wäg becho und prüefe. Die Nachricht vo Ihrer Schwester allei längt nöd.
+
+T012 · Kundin
+Ich ha en Ordner vorbereitet, aber no nüt verschickt. Söll ich mini eigene Kontobeleg mitschicke? Es chönnt ja sii, dass ich im Notfall e Rechnung für sie vorstrecke.
+
+T013 · Beratung
+Das sind zwei getrennte Sache. Wenn Sie vo Ihrem eigene Konto öppis zahled, isch das Ihre eigene Zahlungsfrag. Aber Sie dörfed drum nöd automatisch Uskunft zum Konto vo Ihrer Schwester becho.
+
+T014 · Kundin
+Guet. Wenn ich us mim Konto zahle, wett ich wenigstens nöd d gliichi Rechnung zweimal zahle. Mir händ vereinbart, dass ich zerscht mit ihr rede und nöd selber entscheide, weli Rechnung zuerst drankunnt.
+
+T015 · Beratung
+Für Ihre eigene mögliche Zahlig bruuched Sie de aktuelle Rechnigsbeleg und Ihre Abstimmig mit ihr. Ich notiere Ihren Kontaktwunsch, demit mer d Berechtigung cha prüefe. Solang die no nöd klar isch, gänd mir zu ihrem Konto kei Uskunft.
+
+T016 · Kundin
+Chönd Sie mir bis dahin wenigstens säge, ob uf ihrem Konto gnueg für d Wohnigsrechnung liit?
+
+T017 · Beratung
+Nei, das cha ich Ihnen erst säge, wenn d Berechtigung für die Uskunft prüeft isch. En Betrag oder e Bestätigung zur Deckig gib ich Ihnen jetzt nöd.
+
+T018 · Kundin
+Verstande. Ich ha Ihre Antwort ghört. Ich rüefe sie hüt Abig aa und schicke denn nume das, was de sichere Ablauf verlangt.
+
+T019 · Beratung
+D Rückrufreferenz und de passendi Kontaktwäg chömed ins Postfach. Bi ere Nachfrage gänd Sie die Referenz aa, denn müemer nöd nomal vo vorne aafange.
+
+T020 · Kundin
+Danke. Das hilft mir zum Ordne, au wenn ich d Zahl jetzt no nöd ha.

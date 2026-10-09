@@ -1,0 +1,53 @@
+D10 · Dringende Lieferantenrechnung
+Eine Unternehmerin versucht, die fiktive Freigabe eines Maschinenkaufs mit zwei Teilbeträgen zu verhindern.
+Dauer: short, ungefähr 2.5 min bei 120 Wörtern/min; 296 Wörter.
+Testziel: splitting
+Ereignis: present
+Bearbeitung: alarm
+Begründung: Eine einzige Rechnung soll auf Teilbeträge verteilt werden, ausdrücklich um die zuvor erklärte interne Gesamtfreigabe zu verhindern.
+Offen: keine Voraussetzung für diese Sollbewertung
+Prüfpräfix bis T009; Belege: T003, T009
+Frühere Regelausschlussstelle: nicht separat annotiert
+Keywordstellen: K07 'ufteile' T009 K relevant; K07 'mehreri Zahlige' T009 K relevant; K08 'Prüefig umgah' T006 B benign; K08 'Kontrolle umgah' T009 K relevant
+Geplante Geräuschstellen: Glocke T002; Glocke T003; Glocke T009; Klopfen T007
+Geplante Wortversuche: T002 'zwölftuusig' (35 Prozent, danach intakter Satz); T005 'dringende' (35 Prozent, danach intakter Satz); T009 'zwölftuusig' (35 Prozent, danach intakter Satz); T012 'Kontaktwunsch' (35 Prozent, danach intakter Satz)
+Exakte hörbare Zeitmarke: erst nach Audioproduktion zu prüfen.
+
+T001 · Beratung
+Grüezi Frau Huber, da isch d Sandra Eberle vom Zahlungsservice. Sie händ e Frag zu ere Lieferanterechnig hinterleit.
+
+T002 · Kundin
+Ja, ich muess hüt zwölftuusig Franke an de Werkstatt zahle. D Maschine chunnt morn, und ich wett nöd, dass sie bi Ihne hänged bliibt.
+
+T003 · Beratung
+Bi eus muess e zämeghörendi Lieferantenzahlig über zehntuusig Franke vor de Uusfüehrig intern freigegeh werde. Das gilt für d ganzi Rechnig, au bi Teilbeträg.
+
+T004 · Kundin
+Es isch e einzigi Rechnig für die eini Maschine. Es git nöd zwei Lieferige. Ich ha s Formular gfunde, aber ich ha kei Lust, dass ich jetzt no uf d Freigab warte.
+
+T005 · Beratung
+Mir chönd de dringende Termin vermerke und de vorgsehne Prozess aastoosse. Ich cha Ihnen aber nöd verspräche, dass de Termin dadurch automatisch bestätigt isch.
+
+T006 · Beratung
+D Prüefig umgah würd ich nöd unterstütze. Mir erfassed de tatsächliche Gesamtvorgang und de Termin; de Ziitdruck isch kei Freigab, de Zusammenhang z verberge.
+
+T007 · Kundin
+Und wenn ich s anders erfasse? Im Programm cha ich ja selber en Betrag ii gee. De Empfänger bliibt de gliich.
+
+T008 · Beratung
+E anderi Erfassig ändert nüt a de zämeghörende Rechnig. Was händ Sie konkret vor?
+
+T009 · Kundin
+Ich will d zwölftuusig ufteile, hüt sechstuusig und morn sechstuusig. So wett ich d Kontrolle umgah und verhindre, dass d Freigabstell d ganzi Rechnig überhaupt gseht. Chönd Sie mir zeige, wie ich mehreri Zahlige separat erfasse?
+
+T010 · Beratung
+Für die Absicht gib ich Ihnen kei Anleitung. Ich cha de Vorgang nume mit em vorgsehne Freigabprozess wiiterbringe.
+
+T011 · Kundin
+Ich bi e chli hässig, will de Lieferant scho drängt. Aber ich will jetzt au nöd no en Fehler mache. Denn starte Sie bitte die normale Aafrag.
+
+T012 · Beratung
+Ich nehme de Kontaktwunsch uf. D Uusfüehrig wird damit no nöd bestätigt. D Rechnig und de Termin müend vollständig zum Vorgang.
+
+T013 · Kundin
+Guet. Ich schicke d Rechnig übers Postfach und rüefe de Lieferant aa. Danke.
