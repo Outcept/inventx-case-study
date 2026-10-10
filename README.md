@@ -8,6 +8,7 @@ This repository holds everything a team needs: the brief, the data package and a
 |---|---|
 | The brief | this page |
 | Calls and transcripts | [`data/`](data/README.md) |
+| Slides | [Deep dive](slides/deep-dive.pdf), [case pitch](slides/case-pitch.pdf) |
 | Trigger API (optional) | [`server.py`](server.py), described [below](#trigger-api-optional) |
 
 ## The problem today
